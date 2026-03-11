@@ -19,7 +19,6 @@ I build software that moves things—literally. I specialize in engineering **Lo
 Currently, I am actively seeking my next big challenge in **Dubai**. As a global crossroads for trade and innovation, Dubai is the ultimate proving ground for logistics tech, and I am looking to bring my expertise in high-performance web applications to the UAE's thriving tech ecosystem.
 
 - 🏗️ **Currently Building:** Next-generation logistics & supply chain tracking platforms.
-- 🎯 **Target Destination:** Dubai, UAE (Open to roles and relocation).
 - 💡 **Philosophy:** Great code should be like a perfect supply chain—invisible, efficient, and never breaking down.
 
 ---
